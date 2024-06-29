@@ -7,4 +7,8 @@ We work closely with interaction designers, development service providers and qu
 We support projects in the early stages or bring them back on track when problems arise. 
 We work in and on the system development process.
 
+## Goals
+
+Build products that perform their tasks effectively. That stand out through attractive and well thought-out operation. That prove themselves through a clear internal structure. That have fewer rather than more functions. That give pleasure!﻿
+
 *Translated with DeepL.com*
