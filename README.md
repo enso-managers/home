@@ -23,6 +23,10 @@ We focus on use cases, system architecture, benefits and costs.
 Comprehensible interim results create the conditions for continuous and targeted improvement.
 We employ innovative tooling based on knowledge graphs that is made available as open source software.
 
+## Voluntary Projects
+
+Since 2014 we are leading a project improve collaboration in the end-to end product lifecycle. [SpeIF](https://specif.de) is an initiative to integrate models from different sources and notations to an overachigng knowledge graph. [Schema and constraints](https://github.com/GfSE/SpecIF) as well as a [reference implementation](https://github.com/GfSE/SpecIF-Viewer) are available as open source contributions. [Literature](https://specif.de/en/#literature), [tutorials](https://github.com/GfSE/SpecIF/tree/master/tutorials/v1.0) and [exaamples](https://specif.de/en/#examples) are available.
+
 ## Values
 
 We believe in partnership, cooperation, reliability and quality.
