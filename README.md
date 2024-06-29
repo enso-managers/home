@@ -21,6 +21,7 @@ We know methods, have practical experience and assume responsibility, also as in
 
 We focus on use cases, system architecture, benefits and costs.
 Comprehensible interim results create the conditions for continuous and targeted improvement.
+We employ innovative tooling based on knowledge graphs that is made available as open source software.
 We value partnership, cooperation, reliability and quality.
 
 
