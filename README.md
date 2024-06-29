@@ -11,4 +11,17 @@ We work in and on the system development process.
 
 Build products that perform their tasks effectively. That stand out through attractive and well thought-out operation. That prove themselves through a clear internal structure. That have fewer rather than more functions. That give pleasure!﻿
 
+## Services
+
+We specify systems with a view to their use and their technical environment.
+We advise on development processes and infrastructure.
+We know methods, have practical experience and assume responsibility, also as interim managers.
+
+## Methods
+
+We focus on use cases, system architecture, benefits and costs.
+Comprehensible interim results create the conditions for continuous and targeted improvement.
+We value partnership, cooperation, reliability and quality.
+
+
 *Translated with DeepL.com*
