@@ -25,7 +25,7 @@ We employ innovative tooling based on knowledge graphs that is made available as
 
 ## Voluntary Projects
 
-Since 2014 we are leading a project improve collaboration in the end-to end product lifecycle. [SpecIF](https://specif.de) is an initiative to integrate models from different sources and notations to an overachigng knowledge graph. [Schema and constraints](https://github.com/GfSE/SpecIF) as well as a [reference implementation](https://github.com/GfSE/SpecIF-Viewer) are available as open source contributions. [Literature](https://specif.de/en/#literature), [tutorials](https://github.com/GfSE/SpecIF/tree/master/tutorials/v1.0) and [examples](https://specif.de/en/#examples) are available.
+Since 2014 we are leading a project improve collaboration in the end-to end product lifecycle. [SpecIF](https://specif.de) is an initiative to integrate models from different sources and notations to an overaching knowledge graph. [Schema and constraints](https://github.com/GfSE/SpecIF) as well as a [reference implementation](https://github.com/GfSE/SpecIF-Viewer) are available as open source contributions. [Literature](https://specif.de/en/#literature), [tutorials](https://github.com/GfSE/SpecIF/tree/master/tutorials/v1.0) and [examples](https://specif.de/en/#examples) are available.
 
 ## Values
 
