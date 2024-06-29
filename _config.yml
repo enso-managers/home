@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+# don't change the following lines as required by github.pages
 lsi: false
 safe: true
 source: [your repo's top level directory]
