@@ -42,7 +42,7 @@ are available.
 We believe in partnership, cooperation, reliability and quality.
 
 ## Contact
-- Dr. Oskar von Dungern [e-mail](mailto:od@enso-managers.de), [linkedIn](https://www.linkedin.com/in/odungern/) and [GitHub](https://github.com/odungern).
+- Dr. Oskar von Dungern via [e-mail](mailto:od@enso-managers.de), [linkedIn](https://www.linkedin.com/in/odungern/) and [GitHub](https://github.com/odungern).
 
 
 *Translated with DeepL.com*
