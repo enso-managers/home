@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 # The following lines must nut be modified according the setup of Github pages:
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: https://github.com/enso-managers/Home
 incremental: false
 highlighter: rouge
 gist:
