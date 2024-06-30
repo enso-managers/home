@@ -28,9 +28,10 @@ We employ innovative tooling based on knowledge graphs that is made available as
 Since 2014 we are leading a project improve collaboration in the end-to end product lifecycle: [SpecIF](https://specif.de) is an initiative to integrate models from different sources and notations to an overaching knowledge graph. 
 - [Specification Integration Facility (SpecIF)](https://github.com/GfSE/SpecIF) with
 - [Schema and constraints](https://github.com/GfSE/SpecIF-Schema) as well as a 
-- [reference implementation 'SpecIF Model-Integrator and Editor'](https://github.com/GfSE/SpecIF-Viewer) 
+- reference implementation ['SpecIF Model-Integrator and Editor'](https://github.com/GfSE/SpecIF-Viewer) 
 
 are provided as open source contributions. 
+
 - [Literature](https://specif.de/en/#literature), 
 - [tutorials](https://github.com/GfSE/SpecIF/tree/master/tutorials/v1.0) and 
 - [examples](https://specif.de/en/#examples) 
@@ -42,7 +43,7 @@ are available.
 We believe in partnership, cooperation, reliability and quality.
 
 ## Contact
-- Dr. Oskar von Dungern via [e-mail](mailto:od@enso-managers.de), [linkedIn](https://www.linkedin.com/in/odungern/) and [GitHub](https://github.com/odungern).
+- Dr. Oskar von Dungern via [e-mail](mailto:od@enso-managers.de), [linkedIn](https://www.linkedin.com/in/odungern/) or [GitHub](https://github.com/odungern).
 
 
 *Translated with DeepL.com*
