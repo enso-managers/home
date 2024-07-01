@@ -1,7 +1,3 @@
----
-title: enso managers GmbH
----
-
 # enso designs mechatronics and software
 
 enso stands for 'engineered software'. 
