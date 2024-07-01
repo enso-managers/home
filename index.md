@@ -13,7 +13,9 @@ We work in and on the system development process.
 
 ## Goals
 
-Build products that perform their tasks effectively. That stand out through attractive and well thought-out operation. That prove themselves through a clear internal structure. That have fewer rather than more functions. That give pleasure!﻿
+Build products that perform their tasks effectively. That stand out through attractive and well thought-out operation. 
+That prove themselves through a clear internal structure. That have fewer rather than more functions. 
+That are fun to use!﻿
 
 ## Services
 
