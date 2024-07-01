@@ -6,13 +6,13 @@ permalink: /imprint/
 
 ## Publisher
 
-enso managers GmbH
-Weinmeisterhornweg 98
-13595 Berlin Germany
+enso managers GmbH<br/>
+Weinmeisterhornweg 98<br/>
+13595 Berlin Germany<br/>
 
-e-mail: office(at)enso-managers.de
-Internet: https://enso-managers.de
-Director: Dr.-Ing. Oskar von Dungern
+e-mail: office(at)enso-managers.de<br/>
+Internet: https://enso-managers.de<br/>
+Director: Dr.-Ing. Oskar von Dungern<br/>
 Responsible for the web-site content: Dr.-Ing. Oskar von Dungern
 
 Registered: Amtsgericht Berlin Charlottenburg 
