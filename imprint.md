@@ -19,6 +19,16 @@ Responsible for the web-site content: Dr.-Ing. Oskar von Dungern
 
 Registered: Amtsgericht Berlin Charlottenburg 
 
+
+## Data protection
+
+Personal data transmitted to us is used exclusively for the stated purpose, for example to answer questions or to send newsletters with a thematic reference. In particular, we do not pass on any data to third parties.
+
+We protect the data entrusted to us to the best of our knowledge and in accordance with the current state of the art. However, we exclude any liability for the consequences of unlawful or negligent actions by third parties.
+
+The entry of personal or business data (e-mail addresses, names, addresses) on this website is voluntary. The services offered can - insofar as they are still to be provided - also be used by entering anonymized data or a pseudonym.
+
+
 ## Disclaimer
 
 This website contains links to external pages. External pages are not part of this site and their respective publishers are responsible for their content. 
@@ -29,3 +39,6 @@ In case you find illegal or offensive content, please notify our webmaster. Than
 ## Copyright
 
 All rights reserved by enso managers GmbH, Berlin.
+
+
+Translated with DeepL.com
