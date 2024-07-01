@@ -40,6 +40,3 @@ In case you find illegal or offensive content, please notify our webmaster. Than
 ## Copyright
 
 All rights reserved by enso managers GmbH, Berlin.
-
-
-Translated with DeepL.com

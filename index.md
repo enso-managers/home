@@ -51,6 +51,3 @@ We believe in partnership, cooperation, reliability and quality.
 
 ## Contact
 - Dr. Oskar von Dungern via [e-mail](mailto:od@enso-managers.de), [linkedIn](https://www.linkedin.com/in/odungern/) or [GitHub](https://github.com/odungern).
-
-
-*Translated with DeepL.com*
