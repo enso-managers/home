@@ -1,7 +1,6 @@
 ---
 layout: default
 title: enso designs mechatronics and software
-permalink: /imprint/
 ---
 
 enso stands for 'engineered software'. 
