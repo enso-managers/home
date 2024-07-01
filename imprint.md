@@ -12,12 +12,13 @@ enso managers GmbH<br/>
 Weinmeisterhornweg 98<br/>
 13595 Berlin Germany<br/>
 
-e-mail: office(at)enso-managers.de<br/>
-Internet: https://enso-managers.de<br/>
-Director: Dr.-Ing. Oskar von Dungern<br/>
+e-mail: [office(at)enso-managers.de](mailto:office@enso-managers.de)<br/>
+Internet: [https://enso-managers.de](https://enso-managers.de)<br/>
+Managing Director: Dr.-Ing. Oskar von Dungern<br/>
 Responsible for the web-site content: Dr.-Ing. Oskar von Dungern
 
-Registered: Amtsgericht Berlin Charlottenburg 
+Registration: Amtsgericht Berlin Charlottenburg HRB 103477 B
+Tax ID: DE 250422178
 
 
 ## Data protection
