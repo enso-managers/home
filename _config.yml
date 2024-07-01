@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: enso managers GmbH, Berlin
-baseurl: /home/
+# baseurl: /home/
 # The following lines must nut be modified according the setup of Github pages:
 lsi: false
 safe: true
