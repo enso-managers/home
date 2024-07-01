@@ -2,8 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+// Define the enso colors:
+$enso-blue-1: #1A48AA;
+$enso-blue-2: #1F72C3;
+$enso-blue-3: #1690D8;
+$enso-grey-1: #A8A9AC;
 hr {
   height: 0; 
   border: 0; 
-  border-top: 4px solid #CCCCCC; 
+  border-top: 2px solid $enso-blue-2; 
 }
