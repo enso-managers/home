@@ -32,3 +32,8 @@ hr {
   color: $enso-blue-2;
   border-color: $enso-blue-2;
 }
+.btn:hover { 
+  color: white;
+  background-color: $enso-blue-2; 
+//  border-color: $enso-blue-1; 
+}

@@ -4,6 +4,8 @@ title: "Imprint"
 permalink: /imprint/
 ---
 
+# Imprint
+
 ## Publisher
 
 enso managers GmbH<br/>
