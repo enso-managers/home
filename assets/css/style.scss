@@ -8,15 +8,18 @@ $enso-blue-1: #1A48AA;
 $enso-blue-2: #1F72C3;
 $enso-blue-3: #1690D8;
 $enso-grey-1: #A8A9AC;
-content h1,
+.main-content h1,
+.content h1,
 h1 {
   color: $enso-blue-1;
 }
-content h2,
+.main-content h2,
+.content h2,
 h2 {
   color: $enso-blue-2;
 }
-content h3,
+.main-content h3,
+.content h3,
 h3 {
   color: $enso-blue-3;
 }
