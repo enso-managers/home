@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+hr {
+  height: 0; 
+  border: 0; 
+  border-top: 4px solid #CCCCCC; 
+}
