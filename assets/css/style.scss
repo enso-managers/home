@@ -28,3 +28,7 @@ hr {
   border: 0; 
   border-top: 2px solid $enso-blue-2; 
 }
+.btn {  // background is white in this case
+  color: $enso-blue-2;
+  border-color: $enso-blue-2;
+}
