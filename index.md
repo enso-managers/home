@@ -53,4 +53,4 @@ are available.
 We believe in partnership, cooperation, reliability and quality.
 
 ## Contact
-- Dr.-Ing. Oskar von Dungern via [e-mail](mailto:od@enso-managers.de), [linkedIn](https://www.linkedin.com/in/odungern/) or [GitHub](https://github.com/odungern).
+- Dr.-Ing. Oskar von Dungern via [e-mail](mailto:od@enso-managers.de), <a href="https://www.linkedin.com/in/odungern/" target="_blank">linkedIn</a> or <a href="https://github.com/odungern" target="_blank">GitHub</a>.

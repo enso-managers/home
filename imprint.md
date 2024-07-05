@@ -13,7 +13,7 @@ Weinmeisterhornweg 98<br/>
 13595 Berlin Germany<br/>
 
 e-mail: [office(at)enso-managers.de](mailto:office@enso-managers.de)<br/>
-Internet: [https://enso-managers.de](https://enso-managers.de)<br/>
+Internet: <a href="https://enso-managers.de" target="_blank">https://enso-managers.de</a><br/>
 Managing Director: Dr.-Ing. Oskar von Dungern<br/>
 Responsible for the web-site content: Dr.-Ing. Oskar von Dungern
 
