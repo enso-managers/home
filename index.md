@@ -38,11 +38,16 @@ initiative to integrate partial models from different sources and notations to o
 - reference implementation ['SpecIF Model-Integrator and Editor'](https://github.com/GfSE/SpecIF-Viewer) 
 
 are provided as open source contributions. 
-
+<!--
 - [Literature](https://specif.de/en/#literature), 
 - [tutorials](https://github.com/GfSE/SpecIF/tree/master/tutorials/v1.0) and 
 - [examples](https://specif.de/en/#examples) 
-
+-->
+<ul>
+  <li><a href="https://specif.de/en/#literature" target="_blank">Literature</a>,</li>
+  <li><a href="https://github.com/GfSE/SpecIF/tree/master/tutorials/v1.0" target="_blank">tutorials</a> and </li>
+  <li><a href="https://specif.de/en/#examples" target="_blank">examples</a></li>
+</ul>
 are available.
 
 ## Values
