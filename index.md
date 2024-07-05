@@ -33,16 +33,14 @@ We employ innovative tooling based on knowledge graphs that is made available as
 
 Since 2014 we are leading a project improve collaboration in the end-to end product lifecycle: [SpecIF](https://specif.de) is an 
 initiative to integrate partial models from different sources and notations to obtain an overaching knowledge graph. 
-- [Specification Integration Facility (SpecIF)](https://github.com/GfSE/SpecIF) with
-- [schema and constraints](https://github.com/GfSE/SpecIF-Schema) as well as a 
-- reference implementation ['SpecIF Model-Integrator and Editor'](https://github.com/GfSE/SpecIF-Viewer) 
 
+<ul>
+  <li><a href="https://github.com/GfSE/SpecIF" target="_blank">Specification Integration Facility (SpecIF)</a> with</li>
+  <li><a href="https://github.com/GfSE/SpecIF-Schema" target="_blank">schema and constraints</a> as well as </li>
+  <li>a reference implementation: <a href="https://github.com/GfSE/SpecIF-Viewer" target="_blank">SpecIF Model-Integrator and Editor</a></li>
+</ul>
 are provided as open source contributions. 
-<!--
-- [Literature](https://specif.de/en/#literature), 
-- [tutorials](https://github.com/GfSE/SpecIF/tree/master/tutorials/v1.0) and 
-- [examples](https://specif.de/en/#examples) 
--->
+
 <ul>
   <li><a href="https://specif.de/en/#literature" target="_blank">Literature</a>,</li>
   <li><a href="https://github.com/GfSE/SpecIF/tree/master/tutorials/v1.0" target="_blank">tutorials</a> and </li>
