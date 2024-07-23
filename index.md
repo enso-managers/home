@@ -2,6 +2,7 @@
 layout: default
 title: enso managers GmbH, Berlin
 ---
+
 # enso designs mechatronics and software
 
 enso stands for 'engineered software'. 
