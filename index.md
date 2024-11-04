@@ -36,16 +36,16 @@ Since 2014 we are leading a project improve collaboration in the end-to end prod
 initiative to integrate partial models from different sources and notations to obtain an overaching knowledge graph. 
 
 <ul>
-  <li><a href="https://github.com/GfSE/SpecIF" target="_blank">Specification Integration Facility (SpecIF)</a> with</li>
+  <li><a href="https://specif.de" target="_blank">Specification Integration Facility (SpecIF)</a> with</li>
   <li><a href="https://github.com/GfSE/SpecIF-Schema" target="_blank">schema and constraints</a> as well as </li>
   <li>a reference implementation: <a href="https://github.com/GfSE/SpecIF-Viewer" target="_blank">SpecIF Model-Integrator and Editor</a></li>
 </ul>
 are provided as open source contributions. 
 
 <ul>
-  <li><a href="https://specif.de/en/#literature" target="_blank">Literature</a>,</li>
-  <li><a href="https://github.com/GfSE/SpecIF/tree/master/tutorials/v1.0" target="_blank">tutorials</a> and </li>
-  <li><a href="https://specif.de/en/#examples" target="_blank">examples</a></li>
+<!--  <li><a href="https://specif.de/en/#literature" target="_blank">Literature</a>,</li> -->
+  <li><a href="https://specif.de/Tutorials/" target="_blank">tutorials</a> and </li>
+  <li><a href="https://specif.de/#examples" target="_blank">examples</a></li>
 </ul>
 are available.
 
