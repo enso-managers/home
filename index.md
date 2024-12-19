@@ -26,14 +26,14 @@ We know methods, have practical experience and assume responsibility, also as in
 
 ## Methods
 
-We focus on use cases, system architecture, benefits and costs.
+We focus on use cases, system architecture, benefits and costs. We understand and believe in agile projects:
 Comprehensible interim results create the conditions for continuous and targeted improvement.
-We employ innovative tooling based on knowledge graphs that is made available as open source software.
+We employ innovative tooling based on property graphs that is made available as open source software.
 
 ## Voluntary Projects
 
 Since 2014 we are leading a project improve collaboration in the end-to end product lifecycle: [SpecIF](https://specif.de) is an 
-initiative to integrate partial models from different sources and notations to obtain an overaching knowledge graph. 
+initiative to integrate partial models from different sources and notations to obtain an overaching property graph. 
 
 <ul>
   <li><a href="https://specif.de" target="_blank">Specification Integration Facility (SpecIF)</a> with</li>
