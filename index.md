@@ -32,13 +32,14 @@ We employ innovative tooling based on property graphs that is made available as 
 
 ## Voluntary Projects
 
-Since 2014 we are leading a project improve collaboration in the end-to end product lifecycle: [SpecIF](https://specif.de) is an 
+Since 2014 we are leading a project improve collaboration in the end-to end product lifecycle: 
+The [Specification Integration Facility (SpecIF)](https://specif.de) is an 
 initiative to integrate partial models from different sources and notations to obtain an overaching property graph. 
 
 <ul>
   <li><a href="https://specif.de" target="_blank">Specification Integration Facility (SpecIF)</a> with</li>
   <li><a href="https://github.com/GfSE/SpecIF-Schema" target="_blank">schema and constraints</a> as well as </li>
-  <li>a reference implementation: <a href="https://github.com/GfSE/SpecIF-Viewer" target="_blank">SpecIF Model-Integrator and Editor</a></li>
+  <li>a reference implementation: <a href="https://specif.de/apps/edit" target="_blank">SpecIF Model-Integrator and Editor</a></li>
 </ul>
 are provided as open source contributions. 
 
