@@ -11,11 +11,11 @@ The app can be used with a web browser. It uses code modules and the ontology de
 
 ### Install the App on a Web-Server
 
-Download the last released program version “specIF-apps.vX.Y.zip” from 
+Download the last released program version “tools.vX.Y.zip” from 
 <a href="https://github.com/enso-managers/SpecIF-Tools/releases" target="_blank">https://github.com/enso-managers/SpecIF-Tools/releases</a>, 
 to be found in the collapsible “assets” section, and unzip the file in the file system of the web server of your choice. 
-Enter "http://domain.tld/path/view.html" or "http://domain.tld/path/edit.html" in the address line of your web browser to start the respective app. 
-Of course, "domain.tld/path" has to be replaced according to your installation.
+Enter "http://domain.tld/path/sheet2reqif.html" in the address line of your web browser to start the app. 
+Of course, "domain.tld/path/" has to be replaced according to your installation.
 
 ### Use the Installed App
 
@@ -66,7 +66,7 @@ is transformed to XHTML in the respective ReqIF attribute value fields.
 
 ### Enumerated Values
 
-<img class="my-align-right size-60" src="./images/Manuals/05_Excel_enumerations_EN.png" alt="Excel Enumerations"/>
+<img class="my-align-right size-60" src="./images/05_Excel_enumerations_EN.png" alt="Excel Enumerations"/>
 
 To define an attribute with enumerated values, a worksheet with name _{Enumerations}_ including the curly brackets is created. 
 Here all eligible values of a certain attribute are specified column by column. 
@@ -94,7 +94,7 @@ the user-defined IDs (_dcterms:identifier_) or titles (_dcterms:title_) of the r
 between double or single quotation marks. Multiple resources can be specified separated by commas. 
 See columns _IREB: refines_ and _oslc_rm:satisfiedBy_ in the following figure.
 
-<img class="my-align-right size-60" src="./images/Manuals/04_Excel-column-headers_EN.png" alt="Excel Column Headers"/>
+<img class="my-align-right size-60" src="./images/04_Excel-column-headers_EN.png" alt="Excel Column Headers"/>
 
 By the way, the target of a relation like "DMS" in the figure does not have to be found in the same file. 
 The relation is also established to a resource that originates from a different source, as long as the title resp. ID are identical.
