@@ -79,7 +79,7 @@ that are not listed in the worksheet _{Enumerations}_ are ignored during import.
 _Note: Excel® assists the user in entering values through a selection box when the values listed in the "{Enumerations}" 
 worksheet are selected for the respective column using the menu Data > Data Tools > Data Validation._
 
-This <a href="./examples/Example%20Telephone-Connection-Request%20{Requirements}.xlsx" target="_blank">example</a> 
+This &#x2913;&#xA0;<a href="./examples/Example%20Telephone-Connection-Request%20{Requirements}.xlsx" target="_blank">example</a> 
 shows the described conventions. Here vocabulary terms have also been chosen for the enumerated attribute values. 
 These are replaced in SpecIF Editor/Viewer by terms of the active national language, 
 for example _SpecIF:priorityHigh_ is displayed as _hoch_ if German is selected in the browser. 
@@ -100,7 +100,7 @@ By the way, the target of a relation like "DMS" in the figure does not have to b
 The relation is also established to a resource that originates from a different source, as long as the title resp. ID are identical.
 
 Suitable terms are defined in the 
-<a href="https://specif.de/apps/view.html#import=https://specif.de/v1.1/Ontology.specif" target="_blank">SpecIF Ontology</a>.
+&#x1F517;&#xA0;<a href="https://specif.de/apps/view.html#import=https://specif.de/v1.1/Ontology.specif" target="_blank">SpecIF Ontology</a>.
 
 
 ## Terms of Use
