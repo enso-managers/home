@@ -8,7 +8,7 @@ title: "Manual Sheet → ReqIF"
 ## Setup
 
 The app can be used with a web browser. It uses code modules and the ontology developed by the [SpecIF](https://specif.de) initiative. 
-
+
 ### Install the App on a Web-Server
 
 Download the last released program version “tools.vX.Y.zip” from 
@@ -23,12 +23,14 @@ If the guidelines of your network permit, you can use the <a href="https://tools
 provided for demonstration purposes. 
 You always benefit from the latest release.
 
+
 ## Operation
 
 ### Folder
 
-When importing Excel® files, a folder with the file name as title is created in the hierarchy of the SpecIF data-set. 
-For each worksheet a subfolder is created with its name as a title. 
+When importing a workbook with one or more spreadsheets (Excel® xlsx, LibreOffice ods as well as csv), 
+a folder with the file name as title is created in the hierarchy of the ReqIF data-set. 
+For each spreadsheet a subfolder is created with its name as a title. 
 
 ### Resources and Resource Classes
 
@@ -42,7 +44,7 @@ as certain characters (e.g. the colon) are not allowed in filenames.
 However, some terms including “requirement”, “feature”, “annotation”, “user-story” and “pain-point“ are interpreted correctly 
 by the tool and replaced by an ontology term.
 
-For example, if an Excel file has the file name "Project-name {Requirement}.xslx" and it contains two worksheets 
+For example, if a  file has the file name "Project-name {Requirement}.xslx" and it contains two worksheets 
 named "Functions {User Story}" resp. "Constraints", 
 a resource-class with the title "User-Story" replaced by "SpecIF:UserStory" is assumed for the first worksheet and 
 a resource-class with the title "Requirement" replaced by "IREB:Requirement" 
@@ -66,7 +68,7 @@ is transformed to XHTML in the respective ReqIF attribute value fields.
 
 ### Enumerated Values
 
-<img class="my-align-right size-60" src="./images/05_Excel_enumerations_EN.png" alt="Excel Enumerations"/>
+<img class="my-align-right size-60" src="./images/05_sheet_enumerations_EN.png" alt="Sheet Enumerations"/>
 
 To define an attribute with enumerated values, a worksheet with name _{Enumerations}_ including the curly brackets is created. 
 Here all eligible values of a certain attribute are specified column by column. 
@@ -77,13 +79,13 @@ While Excel® also allows the specification of deviating values, this is not pos
 that are not listed in the worksheet _{Enumerations}_ are ignored during import.
 
 _Note: Excel® assists the user in entering values through a selection box when the values listed in the "{Enumerations}" 
-worksheet are selected for the respective column using the menu Data > Data Tools > Data Validation._
+spreadsheet are selected for the respective column using the menu Data > Data Tools > Data Validation._
 
 This &#x2913;&#xA0;<a href="./examples/Example%20Telephone-Connection-Request%20{Requirements}.xlsx" target="_blank">example</a> 
 shows the described conventions. Here vocabulary terms have also been chosen for the enumerated attribute values. 
 These are replaced in SpecIF Editor/Viewer by terms of the active national language, 
 for example _SpecIF:priorityHigh_ is displayed as _hoch_ if German is selected in the browser. 
-Of course, any terms can be used in the Excel worksheet, which will then be passed unchanged to 
+Of course, any terms can be used in the spreadsheet, which will then be passed unchanged to 
 the ReqIF attribute value, however without a defined meaning.
 
 ### Relations
@@ -94,7 +96,7 @@ the user-defined IDs (_dcterms:identifier_) or titles (_dcterms:title_) of the r
 between double or single quotation marks. Multiple resources can be specified separated by commas. 
 See columns _IREB: refines_ and _oslc_rm:satisfiedBy_ in the following figure.
 
-<img class="my-align-right size-60" src="./images/04_Excel-column-headers_EN.png" alt="Excel Column Headers"/>
+<img class="my-align-right size-40" src="./images/04_sheet-column-headers_EN.png" alt="Sheet Column Headers"/>
 
 By the way, the target of a relation like "DMS" in the figure does not have to be found in the same file. 
 The relation is also established to a resource that originates from a different source, as long as the title resp. ID are identical.
@@ -114,17 +116,16 @@ which also allows free use for commercial applications. If used in your own prod
 ### Support
 
 In case you discover a conceptual inconsistency, a software bug, a flaw in documentation or wish to request a feature,
-please open an <a href="https://github.com/GfSE/SpecIF-Viewer/issues" target="_blank">issue</a>
+please open an <a href="https://github.com/enso-managers/SpecIF-Tools/issues" target="_blank">issue</a>
 with a concise description and ideally test-data.
 We are highly interested to supply high-quality concepts and useful software.
-
 
 ### No Guarantee and No Liability
 
 SpecIF and the app are provided "as-is" and without guaranteed characteristics. 
 Use is always at your own risk. Any liability and guarantee are excluded. 
-The installation at <a href="http://specif.de/apps/" target="_blank">http://specif.de/apps/</a> and the code maintained 
-at <a href="https://github.com/GfSE" target="_blank">https://github.com/GfSE</a> is a reference implementation and not designed for high loads and high availability.
-
+The installation at <a href="https://tools.enso-managers.de" target="_blank">https://tools.enso-managers.de</a> and the code maintained 
+at <a href="https://github.com/enso-managers" target="_blank">https://github.com/enso-managers</a> is a reference implementation 
+and not designed for high loads and high availability.
 
 <!-- link template <a href="" target="_blank"></a> -->
