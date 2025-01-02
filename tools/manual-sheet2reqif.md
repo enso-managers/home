@@ -68,7 +68,7 @@ is transformed to XHTML in the respective ReqIF attribute value fields.
 
 ### Enumerated Values
 
-<img class="my-align-right size-60" src="./images/05_sheet_enumerations_EN.png" alt="Sheet Enumerations"/>
+<img class="my-align-right size-40" src="./images/05_sheet_enumerations_EN.png" alt="Sheet Enumerations"/>
 
 To define an attribute with enumerated values, a worksheet with name _{Enumerations}_ including the curly brackets is created. 
 Here all eligible values of a certain attribute are specified column by column. 
