@@ -68,7 +68,7 @@ is transformed to XHTML in the respective ReqIF attribute value fields.
 
 ### Enumerated Values
 
-<img class="my-align-right size-40" src="./images/05_sheet_enumerations_EN.png" alt="Sheet Enumerations"/>
+<img class="my-align-right size-60" src="./images/05_sheet_enumerations_EN.png" alt="Sheet Enumerations"/>
 
 To define an attribute with enumerated values, a worksheet with name _{Enumerations}_ including the curly brackets is created. 
 Here all eligible values of a certain attribute are specified column by column. 
@@ -96,13 +96,13 @@ the user-defined IDs (_dcterms:identifier_) or titles (_dcterms:title_) of the r
 between double or single quotation marks. Multiple resources can be specified separated by commas. 
 See columns _IREB: refines_ and _oslc_rm:satisfiedBy_ in the following figure.
 
-<img class="my-align-right size-40" src="./images/04_sheet-column-headers_EN.png" alt="Sheet Column Headers"/>
+<img src="./images/04_sheet-column-headers_EN.png" alt="Sheet Column Headers"/>
 
 By the way, the target of a relation like "DMS" in the figure does not have to be found in the same file. 
 The relation is also established to a resource that originates from a different source, as long as the title resp. ID are identical.
 
 Suitable terms are defined in the 
-&#x1F517;&#xA0;<a href="https://specif.de/apps/view.html#import=https://specif.de/v1.1/Ontology.specif" target="_blank">SpecIF Ontology</a>.
+&#x2197;&#xA0;<a href="https://specif.de/apps/view.html#import=https://specif.de/v1.1/Ontology.specif" target="_blank">SpecIF Ontology</a>.
 
 
 ## Terms of Use
