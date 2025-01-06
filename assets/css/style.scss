@@ -42,18 +42,25 @@ hr {
 }
 /* inspired by webslides: */
 @media (min-width: 1024px) {
+  svg.size-80,
   img.size-80 {
     max-width: 80%; }
+  svg.size-70,
   img.size-70 {
     max-width: 70%; }
+  svg.size-60,
   img.size-60 {
     max-width: 60%; }
+  svg.size-50,
   img.size-50 {
     max-width: 50%; }
+  svg.size-40,
   img.size-40 {
     max-width: 40%; }
+  svg.size-30,
   img.size-30 {
     max-width: 30%; }
+  svg.size-20,
   img.size-20 {
     max-width: 20%; } 
 }
@@ -62,25 +69,26 @@ hr {
   margin-right: auto;
   text-align: center; 
 }
+svg.my-align-center,
 img.my-align-center {
   display: block;
   margin: .8rem 0 .8rem 0; 
 }
-img.my-align-right,
 svg.my-align-right,
-img.my-align-left,
-svg.my-align-left {
+img.my-align-right,
+svg.my-align-left,
+img.my-align-left {
   margin: .8rem 0 .8rem 0; 
 }
 @media (min-width: 1024px) {
-  img.my-align-right,
-  svg.my-align-right {
+  svg.my-align-right,
+  img.my-align-right {
     float: right;
     margin-left: 1.6rem; }
 }
 @media (min-width: 1024px) {
-  img.my-align-left,
-  svg.my-align-left {
+  svg.my-align-left,
+  img.my-align-left {
     float: left;
     margin-right: 1.6rem; }
 }
