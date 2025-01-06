@@ -9,7 +9,7 @@ title: "Introduction to Sheet → ReqIF"
 
 Transform a workbook with one or more spreadsheets (Excel® *.xlsx, LibreOffice *.ods as well as *.csv) to the Requirements Interchange Format (ReqIF).
 
-The app can be used with a web browser. It uses code modules and the ontology developed by the [SpecIF](https://specif.de) initiative.
+The app can be used with a web browser. It uses code modules and the ontology developed by the <a href="https://specif.de" target="_blank">SpecIF</a> initiative.
 The browser scripts are fetched from the web-server, while all user data is processed only in the browser: 
 There is no 'backend' and no transfer of user data over the internet: Input files are fetched from devices controlled by the local machine
 and output files are equally stored on such a device. 
@@ -44,16 +44,16 @@ For each spreadsheet a subfolder is created with its name as title.
 
 ### Resources and Resource Classes
 
-If there is a term in curly brackets at the end of a worksheet name, a SpecIF resourceClass associated to that title 
+If there is a term in curly brackets at the end of a worksheet name, a SpecIF resourceClass associated to that term 
 as defined by the ontology is selected as type of all resources/objects found on this worksheet. 
 Otherwise, a term in curly brackets in the file name is used as a substitute. 
 In both cases a specific meaning is attributed to the resources/objects. 
 
 If no type designation is found at all, a new resourceClass is defined with a generic title without a particular meaning.
 
-Unfortunately, no ontology term ready for interpretation by the system can be used in the filename, 
+Unfortunately, a global ontology term cannot be readily used in the filename, 
 as certain characters (e.g. the colon) are not allowed in filenames. 
-However, some terms including “requirement”, “feature”, “annotation”, “user-story” and “pain-point“ 
+However, local terms including “requirement”, “feature”, “annotation”, “user-story” and “pain-point“ 
 (as well as any other local term as defined by the ontology) are interpreted correctly 
 by the tool and replaced by an ontology term.
 
@@ -68,7 +68,7 @@ for the second worksheet.
 
 ### Properties
 
-Now for the contents of each worksheet. The property names (SpecIF property titles) are expected in 
+Now for the contents of each worksheet. The property names (SpecIF propertyClass titles) are expected in 
 the first line of each worksheet and the resources ("instances") follow from the second line. 
 Defined ontology terms are best used as property names, e.g. dcterms:title and dcterms:description from 
 the <a href="https://www.dublincore.org/" target="_blank">Dublin Core Metadata Initiative</a>. 
@@ -95,7 +95,7 @@ To define a property with enumerated values, a worksheet with name _{Enumeration
 Here all eligible values of a certain property are specified column by column. 
 Again, the first line specifies the property name and the values below up to the next blank field define the enumerated values. 
 In worksheets with user data, these values are provided for properties with the same name; 
-in the example given shown by screenshot, these are the properties named _IREB:RequirementType_ and _SpecIF:Priority_. 
+in the example given shown by the screenshot, these are the properties named _IREB:RequirementType_ and _SpecIF:Priority_. 
 While Excel® also allows the specification of deviating values, this is not possible in case of SpecIF, therefore all values 
 that are not listed in the worksheet _{Enumerations}_ are ignored during import.
 
