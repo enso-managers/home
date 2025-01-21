@@ -11,8 +11,8 @@ Transform a workbook with one or more spreadsheets (Excel® *.xlsx, LibreOffice 
 
 The app can be used with a web browser. It uses code modules and the ontology developed by the <a href="https://specif.de" target="_blank">SpecIF</a> initiative.
 The browser scripts are fetched from the web-server, while all user data is processed only in the browser: 
-There is no 'backend' and no transfer of user data over the internet: Input files are fetched from devices controlled by the local machine
-and output files are equally stored on such a device. 
+- There is no 'backend' and no transfer of user data over the internet. 
+- Input files are fetched from devices controlled by the local machine and output files are equally stored on such a device. 
 
 
 ## Setup
@@ -44,8 +44,8 @@ For each spreadsheet a subfolder is created with its name as title.
 
 ### Resources and Resource Classes
 
-If there is a term in curly brackets at the end of a worksheet name, a SpecIF resourceClass associated to that term 
-as defined by the ontology is selected as type of all resources/objects found on this worksheet. 
+If there is a term in curly brackets at the end of a spreadsheet name, a SpecIF resourceClass associated to that term 
+as defined by the ontology is selected as type of all resources/objects found on this spreadsheet. 
 Otherwise, a term in curly brackets in the file name is used as a substitute. 
 In both cases a specific meaning is attributed to the resources/objects. 
 
@@ -57,19 +57,19 @@ However, local terms including “requirement”, “feature”, “annotation�
 (as well as any other local term as defined by the ontology) are interpreted correctly 
 by the tool and replaced by an ontology term.
 
-For example, if a  file has the file name "Project-name {Requirement}.xslx" and it contains two worksheets 
+For example, if a  file has the file name "Project-name {Requirement}.xslx" and it contains two spreadsheets 
 named "Functions {User Story}" resp. "Constraints", 
 a resourceClass with the title "User-Story" normalized by 
 <a href="https://specif.de/apps/edit.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-QacIoFiQ3a268UVZO9mHsqqrwdo" target="_blank">SpecIF:UserStory</a> 
-is assumed for the first worksheet and 
+is assumed for the first spreadsheet and 
 a resourceClass with the title "Requirement" normalized by 
 <a href="https://specif.de/apps/edit.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-JissrCtZ51CD04LeneSqolLFJpA" target="_blank">IREB:Requirement</a> 
-for the second worksheet.
+for the second spreadsheet.
 
 ### Properties
 
-Now for the contents of each worksheet. The property names (SpecIF propertyClass titles) are expected in 
-the first line of each worksheet and the resources ("instances") follow from the second line. 
+Now for the contents of each spreadsheet. The property names (SpecIF propertyClass titles) are expected in 
+the first line of each spreadsheet and the resources ("instances") follow from the second line. 
 Defined ontology terms are best used as property names, e.g. dcterms:title and dcterms:description from 
 the <a href="https://www.dublincore.org/" target="_blank">Dublin Core Metadata Initiative</a>. 
 The use of agreed terms conveys the meaning of the respective properties so that, just one of the potential benefits, 
@@ -84,20 +84,20 @@ first normalized to _dcterms:description_ and then to _ReqIF.Text_.
 Suitable property class terms are defined in the 
 &#x2197;&#xA0;<a href="https://specif.de/apps/edit.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-33z8X0jqbMdrd8PJDKyt2ke4yAB" target="_blank">SpecIF Ontology</a>.
 
-Finally, formatting in worksheet cells using <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">markdown</a> 
+Finally, formatting in spreadsheet cells using <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">markdown</a> 
 is transformed to XHTML in the respective ReqIF attribute value fields.
 
 ### Enumerated Values
 
 <img class="my-align-right size-60" src="./images/05_sheet_enumerations_EN.png" alt="Sheet Enumerations"/>
 
-To define a property with enumerated values, a worksheet with name _{Enumerations}_ including the curly brackets is created. 
+To define a property with enumerated values, a spreadsheet with name _{Enumerations}_ including the curly brackets is created. 
 Here all eligible values of a certain property are specified column by column. 
 Again, the first line specifies the property name and the values below up to the next blank field define the enumerated values. 
-In worksheets with user data, these values are provided for properties with the same name; 
+In spreadsheets with user data, these values are provided for properties with the same name; 
 in the example given shown by the screenshot, these are the properties named _IREB:RequirementType_ and _SpecIF:Priority_. 
 While Excel® also allows the specification of deviating values, this is not possible in case of SpecIF, therefore all values 
-that are not listed in the worksheet _{Enumerations}_ are ignored during import.
+that are not listed in the spreadsheet _{Enumerations}_ are ignored during import.
 
 _Note: Excel® assists the user in entering values through a selection box when the values listed in the "{Enumerations}" 
 spreadsheet are selected for the respective column using the menu Data > Data Tools > Data Validation._
@@ -116,7 +116,7 @@ See columns _IREB:refines_ and _oslc_rm:satisfiedBy_ in the following figure.
 <img src="./images/04_sheet-column-headers_EN.png" alt="Sheet Column Headers"/>
 
 By the way, the target of a relation like "Customer Portal" in the screenshot does not have to be found in the same file. 
-The relation is also established to a resource that originates from a different source, as long as the title resp. ID match.
+The relation is also established to a resource that originates from a different source, as long as the title resp. identifier match.
 
 Suitable statement class terms are defined in the 
 &#x2197;&#xA0;<a href="https://specif.de/apps/edit.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-blM4lfyHM55YlbfBZ3NWj4SYwa3" target="_blank">SpecIF Ontology</a>.
