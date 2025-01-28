@@ -44,8 +44,8 @@ For each spreadsheet a subfolder is created with its name as title.
 
 ### Resources and Resource Classes
 
-If there is a term in curly brackets at the end of a spreadsheet name, a SpecIF resourceClass associated to that term 
-as defined by the ontology is selected as type of all resources/objects found on this spreadsheet. 
+If there is a term in curly brackets at the end of a spreadsheet name, a SpecIF resourceClass is selected
+having that term as a title (name). It serves as type for all resources/objects found on this spreadsheet. 
 Otherwise, a term in curly brackets in the file name is used as a substitute. 
 In both cases a specific meaning is attributed to the resources/objects. 
 
@@ -55,10 +55,10 @@ Unfortunately, a global ontology term cannot be readily used in the filename,
 as certain characters (e.g. the colon) are not allowed in filenames. 
 However, local terms including “requirement”, “feature”, “annotation”, “user-story” and “pain-point“ 
 (as well as any other local term as defined by the ontology) are interpreted correctly 
-by the tool and replaced by an ontology term.
+by the tool and normalized, thus replaced by the preferred ontology term.
 
 For example, if a  file has the file name "Project-name {Requirement}.xslx" and it contains two spreadsheets 
-named "Functions {User Story}" resp. "Constraints", 
+named "Functions {User Story}" and "Constraints", 
 a resourceClass with the title "User-Story" normalized by 
 <a href="https://specif.de/apps/edit.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-QacIoFiQ3a268UVZO9mHsqqrwdo" target="_blank">SpecIF:UserStory</a> 
 is assumed for the first spreadsheet and 
