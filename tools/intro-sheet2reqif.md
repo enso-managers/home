@@ -60,10 +60,10 @@ by the tool and normalized, thus replaced by the preferred ontology term.
 For example, if a  file has the file name "Project-name {Requirement}.xslx" and it contains two spreadsheets 
 named "Functions {User Story}" and "Constraints", 
 a resourceClass with the title "User-Story" normalized by 
-<a href="https://specif.de/apps/edit.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-QacIoFiQ3a268UVZO9mHsqqrwdo" target="_blank">SpecIF:UserStory</a> 
+<a href="https://specif.de/apps/edit.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-QacIoFiQ3a268UVZO9mHsqqrwdo" target="_blank">_SpecIF:UserStory_</a> 
 is assumed for the first spreadsheet and 
 a resourceClass with the title "Requirement" normalized by 
-<a href="https://specif.de/apps/edit.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-JissrCtZ51CD04LeneSqolLFJpA" target="_blank">IREB:Requirement</a> 
+<a href="https://specif.de/apps/edit.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-JissrCtZ51CD04LeneSqolLFJpA" target="_blank">_IREB:Requirement_</a> 
 for the second spreadsheet.
 
 ### Properties
