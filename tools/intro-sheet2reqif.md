@@ -9,14 +9,14 @@ title: "Introduction to Sheet → ReqIF"
 
 Transform a workbook with one or more spreadsheets (Excel® *.xlsx, LibreOffice *.ods as well as *.csv) to the Requirements Interchange Format (ReqIF).
 
+
+## Setup
+
 The app can be used with a web browser. It uses code modules and the ontology developed by the <a href="https://specif.de" target="_blank">SpecIF</a> initiative.
 The browser scripts are fetched from the web-server, while all user data is processed only in the browser: 
 - There is no 'backend' and no transfer of user data over the internet. 
 - Input files are fetched from devices controlled by the local machine and output files are equally stored on such a device. 
 
-
-## Setup
-
 ### Install the App on a Web-Server
 
 Download the last released program version “tools.vX.Y.zip” from 
@@ -60,10 +60,10 @@ by the tool and normalized, thus replaced by the preferred ontology term.
 For example, if a  file has the file name "Project-name {Requirement}.xslx" and it contains two spreadsheets 
 named "Functions {User Story}" and "Constraints", 
 a resourceClass with the title "User-Story" normalized by 
-<a href="https://specif.de/apps/edit.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-QacIoFiQ3a268UVZO9mHsqqrwdo" target="_blank">_SpecIF:UserStory_</a> 
+<a href="https://specif.de/apps/view.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-QacIoFiQ3a268UVZO9mHsqqrwdo" target="_blank">_SpecIF:UserStory_</a> 
 is assumed for the first spreadsheet and 
 a resourceClass with the title "Requirement" normalized by 
-<a href="https://specif.de/apps/edit.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-JissrCtZ51CD04LeneSqolLFJpA" target="_blank">_IREB:Requirement_</a> 
+<a href="https://specif.de/apps/view.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-JissrCtZ51CD04LeneSqolLFJpA" target="_blank">_IREB:Requirement_</a> 
 for the second spreadsheet.
 
 ### Properties
@@ -74,7 +74,8 @@ Defined ontology terms are best used as property names, e.g. dcterms:title and d
 the <a href="https://www.dublincore.org/" target="_blank">Dublin Core Metadata Initiative</a>. 
 The use of agreed terms conveys the meaning of the respective properties so that, just one of the potential benefits, 
 the normalized term can be further translated to the respective name for use with ReqIF.
-For example, the title (denoted by _dcterms:title_) will be translated to _ReqIF.Name_.
+For example, the title (denoted by _dcterms:title_) will be translated to 
+<a href="https://specif.de/apps/view.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-JissrCtZ51CD04LeneSqolLFJpA" target="_blank">_ReqIF.Name_</a>.
 
 <img src="./images/04_sheet-column-headers_EN.png" alt="Sheet Column Headers"/>
 
@@ -82,7 +83,7 @@ In fact, a double translation is made using the ontology: A local term such as _
 first normalized to _dcterms:description_ and then to _ReqIF.Text_.
 
 Suitable property class terms are defined in the 
-&#x2197;&#xA0;<a href="https://specif.de/apps/edit.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-33z8X0jqbMdrd8PJDKyt2ke4yAB" target="_blank">SpecIF Ontology</a>.
+&#x2197;&#xA0;<a href="https://specif.de/apps/view.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-jjppr4nnS6XU1Hi711qS3mXA1Cc" target="_blank">SpecIF Ontology</a>.
 
 Finally, formatting in spreadsheet cells using <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">markdown</a> 
 is transformed to XHTML in the respective ReqIF attribute value fields.
@@ -103,7 +104,7 @@ _Note: Excel® assists the user in entering values through a selection box when 
 spreadsheet are selected for the respective column using the menu Data > Data Tools > Data Validation._
 
 Suitable property value terms are defined in the 
-&#x2197;&#xA0;<a href="https://specif.de/apps/edit.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-GXf6xVO7XO5ciMypRwD5WDR6DHR" target="_blank">SpecIF Ontology</a>.
+&#x2197;&#xA0;<a href="https://specif.de/apps/view.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-GXf6xVO7XO5ciMypRwD5WDR6DHR" target="_blank">SpecIF Ontology</a>.
 
 ### Relations
 
@@ -119,7 +120,7 @@ By the way, the target of a relation like "Customer Portal" in the screenshot do
 The relation is also established to a resource that originates from a different source, as long as the title resp. identifier match.
 
 Suitable statement class terms are defined in the 
-&#x2197;&#xA0;<a href="https://specif.de/apps/edit.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-blM4lfyHM55YlbfBZ3NWj4SYwa3" target="_blank">SpecIF Ontology</a>.
+&#x2197;&#xA0;<a href="https://specif.de/apps/view.html#import=https://specif.de/v1.1/Ontology.specif;view=doc;node=N-blM4lfyHM55YlbfBZ3NWj4SYwa3" target="_blank">SpecIF Ontology</a>.
 
 ### Example
 

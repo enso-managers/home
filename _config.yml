@@ -4,7 +4,8 @@ title: enso managers GmbH, Berlin
 # The following lines must nut be modified according the setup of Github pages:
 lsi: false
 safe: true
-source: https://github.com/enso-managers/home
+# source: https://github.com/enso-managers/home
+source: https://enso-managers.de
 incremental: false
 highlighter: rouge
 gist:
