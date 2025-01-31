@@ -9,6 +9,7 @@ $enso-blue-2: #1F72C3;
 $enso-blue-3: #1690D8;
 $enso-grey-1: #A8A9AC;
 
+/* fix the position of the header */
 header {
   position: fixed;
   width: 100%;
@@ -23,7 +24,11 @@ header {
   .main-content {
     padding: 14rem 1rem 1rem;
   }
+  header img {
+    max-width: 150px;
+  }
 }
+
 .main-content h1,
 .content h1,
 h1 {
