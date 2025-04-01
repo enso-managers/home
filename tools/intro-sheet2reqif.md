@@ -17,6 +17,7 @@ The browser scripts are fetched from the web-server, while all user data is proc
 - There is no 'backend' and no transfer of user data over the internet. 
 - Input files are fetched from devices controlled by the local machine and output files are equally stored on such a device. 
 
+
 ### Install the App on a Web-Server
 
 Download the last released program version “tools.vX.Y.zip” from 
@@ -26,6 +27,7 @@ Enter "http://domain.tld/path/sheet2reqif.html" in the address line of your web 
 Of course, "domain.tld/path/" has to be replaced according to your installation.
 
 Many environments such as MS Teams® inhibit the execution of scripts and are thus not suited for installation of the app.
+
 
 ### Use the Installed App
 

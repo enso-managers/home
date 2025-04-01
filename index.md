@@ -41,14 +41,14 @@ initiative to integrate partial models from different sources and notations to o
   <li><a href="https://github.com/GfSE/SpecIF-Schema" target="_blank">schema and constraints</a> as well as </li>
   <li>a reference implementation: <a href="https://specif.de/apps/edit" target="_blank">SpecIF Model-Integrator and Editor</a></li>
 </ul>
-are provided as open source contributions. 
+are provided as open source contributions. <a href="https://specif.de/Tutorials/" target="_blank">Tutorials</a> and 
+<a href="https://specif.de/#examples" target="_blank">examples</a> are available.
 
-<ul>
 <!--  <li><a href="https://specif.de/en/#literature" target="_blank">Literature</a>,</li> -->
-  <li><a href="https://specif.de/Tutorials/" target="_blank">tutorials</a> and </li>
-  <li><a href="https://specif.de/#examples" target="_blank">examples</a></li>
-</ul>
-are available.
+
+Since 2024 we are contributing to <a href="https://cascade.gfse.org" target="_blank">CASCaDE</a>, a project to prepare an 
+OMG standard supporting collaboration in the product lifecycle. A graph-native approach is used to integrate product information 
+from various sources in established data formats such as ReqIF, SysML v1/v2, STEP, FMI/SSP and others. 
 
 ## Values
 
