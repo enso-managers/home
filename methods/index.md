@@ -21,8 +21,8 @@ Systems Engineering (SE) is an interdisciplinary approach to design, build and o
 Goal is to devise its structure and behavior as well as to apply engineering disciplines to realize its features and functions 
 such that it is safe, cost-effective and meets its purpose (NASA).
 
-We help you to introduce SE in your organization, teach and coach your team. We know various notations and authoring tools, consult
-which ones to apply in a given situation. We show you how to integrate data in different formats and from different sources 
+We help you to introduce SE in your organization, to teach and coach your team. We know various notations and authoring tools, 
+consult which ones to apply in a given situation. We show you how to integrate data in different formats and from different sources 
 for effective collaboration, review and reporting. Perhaps you want to use our open-source tools towards this end.
 
 
@@ -39,9 +39,9 @@ however the same open-source tools can be applied to integrate, review and publi
 
 <h2 id="Methods-Agile">Agile Projects</h2>
 
-Agile projects are customer-centered, team-based and collaborative. 
+Agile projects are user-centered, team-based and collaborative. 
 Results are shared periodically to obtain frequent feedback from customers or users. 
-Next steps are decided considering the latest insights, internal as well as external. Roles and responsibilities
+Next steps are decided considering the latest insights, external as well as internal. Roles and responsibilities
 differ largely from traditional projects. Agile projects encourage commitment and focus.
 
 We help you to apply agile principles to your organization. There are proven frameworks and templates, 
@@ -52,13 +52,13 @@ but a well accepted approach must take into account your current situation to fo
 <h2 id="Methods-Workshop">Interaction Room Workshop</h2>
 
 The Interaction Room is a very effective workshop format to identify the needs and potentials of a system
-to develop or to innovate an IT application landscape. Representatives from different disciplines meet to
-analyze the needs and to sketch solutions taking complementary points of view. 
+to develop or to innovate an IT application landscape. Representatives from business, engineering and management 
+meet to analyze the needs and to sketch solutions taking complementary points of view. 
 Notations understood by the participants are used, whereas formal considerations are applied later on. 
+Interaction Room workshops are best organized on-site, but can also be held online. 
 
 We organize and lead Interaction Room workshops, we document the results ... and we are happy to 
-show your team how to do it. Interaction Room Workshop are best organized on-site, but can also 
-be held online. It's very effective, but no rocket science. 
+show your team how to do it. It's very effective, but no rocket science. 
 
 
 <h2 id="Methods-Campaign">Concept Campaign</h2>
