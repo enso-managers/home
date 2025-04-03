@@ -11,10 +11,23 @@ The tools are open-source and free to use, however a donation is very welcome to
 in the area of Systems Engineering and Enterprise Architecture.
 
 <ul>
+<li><a href="#specif-editor">SpecIF Model-Integrator and Editor</a></li>
 <li><a href="#sheet2reqif">Sheet → ReqIF</a></li>
 <li><a href="#bpmn2word">BPMN → Word® and ePub</a></li>
 <li><a href="#open-source">Donation to Open Source Software</a></li>
 </ul>
+
+
+<h2 id="specif-editor">SpecIF Model-Integrator und Editor</h2>
+
+<p><a href="https://specif.de">SpecIF</a> is the 'Specification Integration Facility'. It combines partial specifications from different tools in a semantic net for</p>
+<ul>
+<li>searching, navigating and auditing partial results in a common context as well as</li>
+<li>exchanging model information between organizations and tools.</li>
+</ul>
+<p>Use the tool <a href="https://specif.de/apps/edit.html" target="_blank">SpecIF Model-Integrator und Editor</a>. For instructions, please refer to the <a href="https://specif.de/Manuals/01_Quick-Start-Guide_EN.html" target="_blank">Quick Start Guide</a>.</p>
+<p>A <a href="https://specif.de/apps-alpha/edit.html" target="_blank">newer version</a> is currently under test and not yet released.</p>
+
 
 <h2 id="sheet2reqif">Sheet → ReqIF</h2>
 
