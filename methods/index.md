@@ -20,8 +20,8 @@ for effective collaboration, review and reporting. Perhaps you want to use our o
 <h2 id="Methods-EA">Enterprise Architecture</h2>
 
 Enterprise Architecture (EA) is concerned with the structure and behaviour of a business or organization. 
-Beginning with the desired capabilities of the unit, business functions and processes are derived,
-IT applications with its interfaces are selected to best support those functions and finally
+Beginning with the desired capabilities of the unit, business functions, processes and roles are derived,
+IT applications with its interfaces are selected to best support those processes and finally
 the infrastructure to run the IT applications is optimized.
 
 As described in the context of SE above, we help to adopt EA in your organization. The notations and authoring tools are different,
@@ -48,7 +48,8 @@ analyze the needs and to sketch solutions taking complementary points of view.
 Notations understood by the participants are used, whereas formal considerations are applied later on. 
 
 We organize and lead Interaction Room workshops, we document the results ... and we are happy to 
-show your team how to do it. Very effective, but no rocket science. 
+show your team how to do it. Interaction Room Workshop are best organized on-site, but can also 
+be held online. It's very effective, but no rocket science. 
 
 
 <h2 id="Methods-Campaign">Concept Campaign</h2>
@@ -64,7 +65,7 @@ integrated in a concept campaign.
 Few organizations or managers think they can meet the prerequisites, but those who do are rewarded
 with quick results that would take usually many months.
 
-
+<!--
 <h2 id="Methods-Assessment">Engineering Excellence Assessment</h2>
 
 Not all customer and supplier relationships work well. Neither all internal engineering services are 
@@ -78,6 +79,6 @@ Shiny presentations are banned, while it is looked at real world artefacts produ
 Originally developed for technical due diligence when an acquisition and merger of 
 software companies is prepared, the Engineering Excellence Assessment has been further 
 developed and successfully applied to improve customer and supplier relationships.
-
+-->
 
 
