@@ -16,7 +16,7 @@ We work in and on the system development process.
 
 Build products that perform their tasks effectively. That stand out through attractive and well thought-out operation. 
 That prove themselves through a clear internal structure. That have fewer rather than more functions. 
-That are fun to use!﻿
+That are fun to use!
 
 ## Services
 
@@ -27,8 +27,14 @@ We know methods, have practical experience and assume responsibility, also as in
 ## Methods
 
 We focus on use cases, system architecture, benefits and costs. We understand and believe in agile projects:
-Comprehensible interim results create the conditions for continuous and targeted improvement.
-We employ innovative tooling based on property graphs that is made available as open source software.
+Comprehensible interim results allow for continuous and targeted improvement.
+We employ innovative tooling based on property graphs that is made available as open-source software.
+
+## Size
+
+Our firm is very small. However we have a long-term network of experienced partners to collaborate in larger
+projects. We have little administrative overhead and no expense for marketing and sales. The principals
+don't just visit our projects from time to time, they are actively involved.
 
 ## Voluntary Projects
 
@@ -46,8 +52,8 @@ are provided as open source contributions. <a href="https://specif.de/Tutorials/
 
 <!--  <li><a href="https://specif.de/en/#literature" target="_blank">Literature</a>,</li> -->
 
-Since 2024 we are contributing to <a href="https://cascade.gfse.org" target="_blank">CASCaDE</a>, a project to prepare an 
-OMG standard supporting collaboration in the product lifecycle. A graph-native approach is used to integrate product information 
+Since 2024 we are contributing to <a href="https://cascade.gfse.org" target="_blank">CASCaDE</a>, a project preparing an 
+OMG standard to support collaboration in the product lifecycle. A graph-native approach is used to integrate product information 
 from various sources in established data formats such as ReqIF, SysML v1/v2, STEP, FMI/SSP and others. 
 
 ## Values
