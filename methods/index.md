@@ -5,6 +5,15 @@ title: Methods
 
 # Methods
 
+## Content
+
+<ul>
+<li><a href="#Methods-SE">Systems Engineering</a></li>
+<li><a href="#Methods-EA">Enterprise Architecture</a></li>
+<li><a href="#Methods-Agile">Agile Projects</a></li>
+<li><a href="#Methods-Workshop">Interaction Room Workshop</a></li>
+<li><a href="#Methods-Campaign">Concept Campaign</a></li>
+</ul>
 
 <h2 id="Methods-SE">Systems Engineering</h2>
 
@@ -37,7 +46,7 @@ differ largely from traditional projects. Agile projects encourage commitment an
 
 We help you to apply agile principles to your organization. There are proven frameworks and templates, 
 but a well accepted approach must take into account your current situation to form a new culture 
-... avoiding a mere relabelling of existing roles and structures, which can be seen all to often.
+... avoiding a mere relabelling of existing roles and structures, which can be seen all too often.
 
 
 <h2 id="Methods-Workshop">Interaction Room Workshop</h2>
@@ -62,8 +71,8 @@ Any of the participants should arrange for about three time slots of 2-4h each
 in a period of one to three weeks depending on the project size. Interaction Room workshops are very well
 integrated in a concept campaign.
 
-Few organizations or managers think they can meet the prerequisites, but those who do are rewarded
-with quick results that would take usually many months.
+Few organizations or managers think they can meet the prerequisites, but those who make it possible 
+are rewarded with quick results that usually would take many months.
 
 <!--
 <h2 id="Methods-Assessment">Engineering Excellence Assessment</h2>
