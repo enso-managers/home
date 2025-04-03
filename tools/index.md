@@ -26,7 +26,9 @@ in the area of Systems Engineering and Enterprise Architecture.
 <li>exchanging model information between organizations and tools.</li>
 </ul>
 <p>Use the tool <a href="https://specif.de/apps/edit.html" target="_blank">SpecIF Model-Integrator und Editor</a>. For instructions, please refer to the <a href="https://specif.de/Manuals/01_Quick-Start-Guide_EN.html" target="_blank">Quick Start Guide</a>.</p>
-<p>A <a href="https://specif.de/apps-alpha/edit.html" target="_blank">newer version</a> is currently under test and not yet released.</p>
+<p>A <a href="https://specif.de/apps-alpha/edit.html" target="_blank">newer version</a> is currently under test and not yet released. 
+New features include the import of UML Class Diagrams as well as SysML Block Definition Diagrams and Internal Block Diagrams plus an
+export using RDF triples to populate a knowledge graph.</p>
 
 
 <h2 id="sheet2reqif">Sheet → ReqIF</h2>
