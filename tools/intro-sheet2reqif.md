@@ -27,6 +27,7 @@ Enter "http://domain.tld/path/sheet2reqif.html" in the address line of your web 
 Of course, "domain.tld/path/" has to be replaced according to your installation.
 
 Many environments such as MS Teams® inhibit the execution of scripts and are thus not suited for installation of the app.
+However, any standard web-server such as Apache can be used.
 
 
 ### Use the Installed App

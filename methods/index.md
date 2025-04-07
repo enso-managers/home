@@ -10,6 +10,7 @@ title: Methods
 <ul>
 <li><a href="#Methods-SE">Systems Engineering</a></li>
 <li><a href="#Methods-EA">Enterprise Architecture</a></li>
+<li><a href="#Methods-Integration">Model Integration</a></li>
 <li><a href="#Methods-Agile">Agile Projects</a></li>
 <li><a href="#Methods-Workshop">Interaction Room Workshop</a></li>
 <li><a href="#Methods-Campaign">Concept Campaign</a></li>
@@ -35,6 +36,16 @@ the infrastructure to run the IT applications is optimized.
 
 As described in the context of SE above, we help to adopt EA in your organization. The notations and authoring tools are different,
 however the same open-source tools can be applied to integrate, review and publish the results.
+
+
+<h2 id="Methods-Integration">Model Integration</h2>
+
+Requirements, System Concepts, Development Artefacts, Issues, Tasks, Validation as well as test results 
+are best evaluated in a common context. Interrelated entities lend themselves for graph computing.
+
+Together with our customers we have been developing the Specification Integration Facility (SpecIF) for many years.
+Since 2024 we are contributing to CASCaDE, a project developing a standard supporting collaboration in the 
+whole product lifecycle. All <a href="https://enso-managers.de/tools">tools</a> are open-source and freely available.
 
 
 <h2 id="Methods-Agile">Agile Projects</h2>
