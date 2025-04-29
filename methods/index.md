@@ -71,7 +71,7 @@ Interaction Room workshops are best organized on-site, but can also be held onli
 We organize and lead Interaction Room workshops, we document the results ... and we are happy to 
 show your team how to do it. It's very effective, but no rocket science. 
 
-* The Interaction Room method has been originally devised by Prof. Dr. Volker Gruhn 
+ * The Interaction Room method has been originally devised by Prof. Dr. Volker Gruhn 
 and his collaborators and then further developed by 
 the [Interaction Room GmbH](https://www.interaction-room.de/methode/) 
 and [adesso SE](https://www.adesso.de/en/services/interaction-room/index.jsp).
