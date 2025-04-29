@@ -62,7 +62,7 @@ but a well accepted approach must take into account your current situation to fo
 
 <h2 id="Methods-Workshop">Interaction Room Workshop</h2>
 
-The Interaction Room* is a very effective workshop format to identify the needs and potentials of a system
+The Interaction Room is a very effective workshop format to identify the needs and potentials of a system
 to develop or to innovate an IT application landscape. Representatives from business, engineering and management 
 meet to analyze the needs and to sketch solutions taking complementary points of view. 
 Notations understood by the participants are used, whereas formal considerations are applied later on. 
@@ -71,7 +71,7 @@ Interaction Room workshops are best organized on-site, but can also be held onli
 We organize and lead Interaction Room workshops, we document the results ... and we are happy to 
 show your team how to do it. It's very effective, but no rocket science. 
 
- * The Interaction Room method has been originally devised by Prof. Dr. Volker Gruhn 
+Credits: The Interaction Room method has been originally devised by Prof. Dr. Volker Gruhn 
 and his collaborators and then further developed by 
 the [Interaction Room GmbH](https://www.interaction-room.de/methode/) 
 and [adesso SE](https://www.adesso.de/en/services/interaction-room/index.jsp).
