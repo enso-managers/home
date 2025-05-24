@@ -19,12 +19,13 @@ title: Methods
 <h2 id="Methods-SE">Systems Engineering</h2>
 
 Systems Engineering (SE) is an interdisciplinary approach to design, build and operate a system.
-Goal is to devise its structure and behavior as well as to apply engineering disciplines to realize its features and functions 
-such that it is safe, cost-effective and meets its purpose (NASA).
+Goal is to devise its overall structure and behavior as well as to apply engineering disciplines 
+to realize its features and functions such that it is safe, cost-effective and meets its purpose.
 
-We help you to introduce SE in your organization, to teach and coach your team. We know various notations and authoring tools, 
-consult which ones to apply in a given situation. We show you how to integrate data in different formats and from different sources 
-for effective collaboration, review and reporting. Perhaps you want to use our open-source tools towards this end.
+We help you to introduce SE in your organization, to teach and coach your team. 
+We know various notations and authoring tools, consult which ones to apply in a given situation. 
+We show you how to integrate data in different formats and from different sources for effective collaboration, 
+review and reporting. Perhaps you want to use our open-source tools towards this end.
 
 
 <h2 id="Methods-EA">Enterprise Architecture</h2>

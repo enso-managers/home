@@ -18,7 +18,7 @@ Managing Director: Dr.-Ing. Oskar von Dungern<br/>
 Responsible for the web-site content: Dr.-Ing. Oskar von Dungern
 
 Registration: Amtsgericht Berlin Charlottenburg HRB 103477 B<br/>
-Tax ID: DE 250422178
+VAT ID: DE 250422178
 
 
 ## Data protection
