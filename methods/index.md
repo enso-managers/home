@@ -31,8 +31,8 @@ review and reporting. Perhaps you want to use our open-source tools towards this
 <h2 id="Methods-EA">Enterprise Architecture</h2>
 
 Enterprise Architecture (EA) is concerned with the structure and behaviour of a business or organization. 
-Beginning with the desired capabilities of the unit, business functions, processes and roles are derived,
-IT applications with its interfaces are selected to best support those processes and finally
+Beginning with the desired capabilities of the unit, business functions, roles and processes are derived.
+IT applications with their interfaces are then selected to best support those processes and finally
 the infrastructure to run the IT applications is optimized.
 
 As described in the context of SE above, we help to adopt EA in your organization. The notations and authoring tools are different,
@@ -41,7 +41,7 @@ however the same open-source tools can be applied to integrate, review and publi
 
 <h2 id="Methods-Integration">Model Integration</h2>
 
-Requirements, system concepts, development artefacts, issues, tasks, test results and other entities
+Requirements, system models, development artefacts, issues, tasks, test results and other entities
 are best evaluated in a common context. Interrelated information items lend themselves for graph computing.
 
 Together with our customers we have been developing the Specification Integration Facility (SpecIF) for many years.

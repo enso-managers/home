@@ -45,7 +45,7 @@ When importing a workbook with one or more spreadsheets (Excel® *.xlsx, LibreOf
 a folder with the file name as title is created in the hierarchy of the ReqIF data-set. 
 For each spreadsheet a subfolder is created with its name as title. 
 
-### Resources and Resource Classes
+### Resource Classes and Resources
 
 If there is a term in curly brackets at the end of a spreadsheet name, a SpecIF resourceClass is selected
 having that term as a title (name). It serves as type for all resources/objects found on this spreadsheet. 
@@ -100,10 +100,10 @@ Here all eligible values of a certain property are specified column by column.
 Again, the first line specifies the property name and the values below up to the next blank field define the enumerated values. 
 In spreadsheets with user data, these values are provided for properties with the same name; 
 in the example given shown by the screenshot, these are the properties named _IREB:RequirementType_ and _SpecIF:Priority_. 
-While Excel® also allows the specification of deviating values, this is not possible in case of SpecIF, therefore all values 
-that are not listed in the spreadsheet _{Enumerations}_ are ignored during import.
+While Libreoffice and Excel® also allow the specification of deviating values, this is not possible in case of SpecIF, 
+therefore all values that are not listed in the spreadsheet _{Enumerations}_ are ignored during import.
 
-_Note: Excel® assists the user in entering values through a selection box when the values listed in the "{Enumerations}" 
+_Note: Libreoffice and Excel® assist the user in entering values through a selection box when the values listed in the "{Enumerations}" 
 spreadsheet are selected for the respective column using the menu Data > Data Tools > Data Validation._
 
 Suitable property value terms are defined in the 
