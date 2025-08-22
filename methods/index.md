@@ -44,8 +44,8 @@ however the same open-source tools can be applied to integrate, review and publi
 Requirements, system models, development artefacts, issues, tasks, test results and other entities
 are best evaluated in a common context. Interrelated information items lend themselves for graph computing.
 
-Together with our customers we have been developing the Specification Integration Facility (SpecIF) for many years.
-Since 2024 we are contributing to CASCaDE, a project developing a standard supporting collaboration in the whole product lifecycle. 
+Together with our customers we have been developing the <a href="https://specif.de" target="_blank">Specification Integration Facility (SpecIF)</a> for many years.
+Since 2024 we are contributing to <a href="https://cascade.gfse.org" target="_blank">CASCaDE</a>, a project developing a standard supporting collaboration in the whole product lifecycle. 
 All <a href="https://enso-managers.de/tools" target="_blank">tools</a> are open-source and freely available.
 
 
