@@ -210,35 +210,40 @@ body.enso-drawer-open {
         border-right: 6px solid $enso-blue-2;
         border-bottom: none;
         align-items: stretch;
+        z-index: 100;
     }
 
     .enso-banner-nav {
         flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
         height: 100%;
         width: 100%;
         padding: 0;
-        align-items: center;
-        justify-content: flex-start;
-        position: relative;
     }
 
     .enso-logo {
         max-width: 220px;
-        margin: 2em 0 0 0;
-        align-self: flex-start;
+        margin: 2em 0 2em 0;
+        align-self: center;
     }
 
     .enso-nav {
+        display: flex;
         flex-direction: column;
-        gap: 2em;
-        margin: 0;
-        position: absolute;
-        top: 50%;
-        left: 0;
-        right: 0;
-        transform: translateY(-50%);
-        align-items: center;
+        align-items: stretch;
+        width: 80%; /* Buttons nehmen 80% der Bannerbreite */
+        margin: 0 auto;
+        gap: 1.2em;
+    }
+
+    .enso-nav .btn {
         width: 100%;
+        min-width: 180px; /* Optional: Mindestbreite */
+        text-align: center;
+        box-sizing: border-box;
+        font-size: 1.1em;
+        padding: 0.8em 0;
     }
 
     .enso-blue-bar {
@@ -254,7 +259,6 @@ body.enso-drawer-open {
         display: none !important;
     }
 }
-
 /* Portrait (mobile) */
 @media (orientation: portrait), (max-width: 700px) {
     .enso-header {
