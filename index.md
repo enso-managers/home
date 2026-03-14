@@ -43,7 +43,7 @@ preparing an OMG standard to support collaboration in the product lifecycle. A g
 product information from various sources in established data formats such as ReqIF, SysML v1/v2, STEP, FMI/SSP and others. 
 
 <ul>
-  <li>Reference implementation: <a href="https://product-information-graph.org" target="_blank">Schema- and App-Server</a></li>
+  <li>Reference implementation: <a href="https://product-information-graph.org" target="_blank">CASCaRA Schema- and App-Server</a></li>
 </ul>
 
 Since 2014 we are leading a project improve collaboration in the end-to end product lifecycle: 
