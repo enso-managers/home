@@ -224,7 +224,6 @@ body.enso-drawer-open {
     }
 
     .enso-logo {
-        max-width: 160px;
         margin: 2em 0 0.5em 0;
         align-self: center;
     }
@@ -290,6 +289,7 @@ body.enso-drawer-open {
     }
 
     .enso-menu-icon {
+        max-width: 160px;
         display: flex;
     }
 
