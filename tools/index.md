@@ -47,5 +47,5 @@ export using RDF triples to populate a knowledge graph.</p>
 <h2 id="open-source">Donation to Open Source Software</h2>
 
 <div style="float: left; margin: 6px 9px 0 0;" > <iframe src="https://github.com/sponsors/enso-managers/button" title = "Sponsor enso-managers" height = "32" width = "114" style = "border: 0; border-radius: 6px;" > </iframe></div >
-<div style="padding-top:0.5em"><p>Is any of these tools of value to you, would you like to make a donation?</p><p>You support further development of transformations and model integration to improve collaboration over the product lifecycle, see <a href="https://cascade.gfse.org" target="_blank">Project CASCaDE</a>.</p></div>
+<div style="padding-top:0.5em"><p>Is any of these tools of value to you, would you like to make a donation?</p><p>You support further development of transformations and model integration to improve collaboration over the product lifecycle, see <a href="https://cascara.gfse.org" target="_blank">Project CASCaRA</a>.</p></div>
 

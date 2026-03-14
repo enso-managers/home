@@ -45,7 +45,7 @@ Requirements, system models, development artefacts, issues, tasks, test results 
 are best evaluated in a common context. Interrelated information items lend themselves for graph computing.
 
 Together with our customers we have been developing the <a href="https://specif.de" target="_blank">Specification Integration Facility (SpecIF)</a> for many years.
-Since 2024 we are contributing to <a href="https://cascade.gfse.org" target="_blank">CASCaDE</a>, a project developing a standard supporting collaboration in the whole product lifecycle. 
+Since 2024 we are contributing to <a href="https://cascara.gfse.org" target="_blank">CASCaRA</a> (formerly CASCaDE), a project developing a standard supporting collaboration in the whole product lifecycle. 
 All <a href="https://enso-managers.de/tools" target="_blank">tools</a> are open-source and freely available.
 
 

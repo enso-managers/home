@@ -38,23 +38,27 @@ don't just visit our projects from time to time, they are actively involved.
 
 ## Voluntary Projects
 
-Since 2014 we are leading a project improve collaboration in the end-to end product lifecycle: 
-The [Specification Integration Facility (SpecIF)](https://specif.de) is an 
-initiative to integrate partial models from different sources and notations to obtain an overaching property graph. 
+Since 2024 we are contributing to <a href="https://cascara.gfse.org" target="_blank">CASCaRA</a> (formerly CASCaDE), an initiative 
+preparing an OMG standard to support collaboration in the product lifecycle. A graph-native approach is used to integrate 
+product information from various sources in established data formats such as ReqIF, SysML v1/v2, STEP, FMI/SSP and others. 
 
 <ul>
-  <li><a href="https://specif.de" target="_blank">Specification Integration Facility (SpecIF)</a> with</li>
-  <li><a href="https://github.com/GfSE/SpecIF-Schema" target="_blank">schema and constraints</a> as well as </li>
-  <li>a reference implementation: <a href="https://specif.de/apps/edit" target="_blank">SpecIF Model-Integrator and Editor</a></li>
+  <li>Reference implementation: <a href="https://product-information-graph.org" target="_blank">Schema- and App-Server</a></li>
 </ul>
-are provided as open source contributions. <a href="https://specif.de/Tutorials/" target="_blank">Tutorials</a> and 
-<a href="https://specif.de/#examples" target="_blank">examples</a> are available.
+
+Since 2014 we are leading a project improve collaboration in the end-to end product lifecycle: 
+The <a href="https://specif.de" target="_blank">Specification Integration Facility (SpecIF)</a> is an 
+initiative to integrate partial models from different sources and notations to obtain an overaching property graph. 
+Many proven concepts of SpecIF are being adopted in CASCaRA.
+
+<ul>
+  <li>A reference implementation: <a href="https://specif.de/apps/index.html" target="_blank">SpecIF Apps</a> with</li>
+  <li><a href="https://specif.de/Tutorials/" target="_blank">Tutorials</a> and 
+<a href="https://specif.de/#examples" target="_blank">examples</a></li>
+</ul>
+are provided as open source contributions.
 
 <!--  <li><a href="https://specif.de/en/#literature" target="_blank">Literature</a>,</li> -->
-
-Since 2024 we are contributing to <a href="https://cascade.gfse.org" target="_blank">CASCaDE</a>, a project preparing an 
-OMG standard to support collaboration in the product lifecycle. A graph-native approach is used to integrate product information 
-from various sources in established data formats such as ReqIF, SysML v1/v2, STEP, FMI/SSP and others. 
 
 ## Values
 
