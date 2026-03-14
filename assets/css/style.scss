@@ -202,7 +202,7 @@ body.enso-drawer-open {
     .enso-header {
         flex-direction: column;
         height: 100vh;
-        width: 320px;
+        width: 260px;
         position: fixed;
         left: 0;
         top: 0;
@@ -214,36 +214,44 @@ body.enso-drawer-open {
     }
 
     .enso-banner-nav {
+        display: flex;
         flex-direction: column;
         align-items: center;
-        justify-content: flex-start;
         height: 100%;
         width: 100%;
         padding: 0;
+        position: relative;
     }
 
     .enso-logo {
-        max-width: 220px;
-        margin: 2em 0 2em 0;
+        max-width: 160px;
+        margin: 2em 0 0.5em 0;
         align-self: center;
     }
 
     .enso-nav {
         display: flex;
         flex-direction: column;
-        align-items: stretch;
-        width: 80%; /* Buttons nehmen 80% der Bannerbreite */
-        margin: 0 auto;
-        gap: 1.2em;
+        align-items: center;
+        position: absolute;
+        top: 50%;
+        left: 0;
+        right: 0;
+        transform: translateY(-50%);
+        width: 100%;
+        gap: 1em;
     }
 
     .enso-nav .btn {
-        width: 100%;
-        min-width: 180px; /* Optional: Mindestbreite */
+        width: 160px;
+        min-width: 120px;
+        max-width: 180px;
+        margin: 0 auto;
         text-align: center;
-        box-sizing: border-box;
         font-size: 1.1em;
-        padding: 0.8em 0;
+        padding: 0.7em 0;
+        box-sizing: border-box;
+        display: block;
     }
 
     .enso-blue-bar {
@@ -251,7 +259,7 @@ body.enso-drawer-open {
     }
 
     .main-content {
-        margin-left: 320px;
+        margin-left: 260px;
         padding-top: 2em;
     }
 
@@ -259,6 +267,7 @@ body.enso-drawer-open {
         display: none !important;
     }
 }
+
 /* Portrait (mobile) */
 @media (orientation: portrait), (max-width: 700px) {
     .enso-header {
