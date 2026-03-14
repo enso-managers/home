@@ -128,13 +128,6 @@ img.my-align-left {
     z-index: 100;
 }
 
-.enso-banner-nav {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    padding: 0.2em 1.6em 0.2em 0;
-}
-
 .enso-logo {
     max-width: 240px;
     height: auto;
@@ -271,7 +264,7 @@ body.enso-drawer-open {
         flex-direction: row;
         align-items: center;
         justify-content: space-between;
-        padding: 0.8em 1.6em 0 0;
+        padding: 0.2em 1.6em 0.2em 0;
     }
 
     .enso-nav {
