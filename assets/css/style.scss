@@ -274,7 +274,7 @@ body.enso-drawer-open {
         width: 100%;
         height: auto;
         border-right: none;
-        border-bottom: 6px solid $enso-blue-2;
+        border-bottom: 4px solid $enso-blue-2;
     }
 
     .enso-banner-nav {
@@ -284,12 +284,17 @@ body.enso-drawer-open {
         padding: 0.8em 1.6em 0 0;
     }
 
+    .enso-logo {
+        max-width: 160px;
+        margin: 2em 0 0.5em 0;
+        align-self: center;
+    }
+
     .enso-nav {
         display: none;
     }
 
     .enso-menu-icon {
-        max-width: 160px;
         display: flex;
     }
 
