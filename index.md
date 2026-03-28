@@ -30,12 +30,6 @@ We focus on use cases, system architecture, benefits and costs. We understand an
 Comprehensible interim results allow for continuous and targeted improvement.
 We employ innovative tooling based on property graphs that is made available as open-source software.
 
-## Size
-
-Our firm is very small. However we have a long-term network of experienced partners to collaborate in larger
-projects. We have little administrative overhead and no expense for marketing and sales. The principals
-don't just visit our projects from time to time, they are actively involved.
-
 ## Voluntary Projects
 
 Since 2024 we are contributing to <a href="https://cascara.gfse.org" target="_blank">CASCaRA</a> (formerly CASCaDE), an initiative 
@@ -59,6 +53,18 @@ Many proven concepts of SpecIF are being adopted in CASCaRA.
 are provided as open source contributions.
 
 <!--  <li><a href="https://specif.de/en/#literature" target="_blank">Literature</a>,</li> -->
+
+## Business Model
+
+We are a consulting firm. We charge an agreed-upon fee when we deliver a specific result. 
+Any further developments to our software tools made to achieve these results are released as open source.
+Donations made by users of our open-source software are invested for further development.
+
+## Size
+
+Our firm is very small. However we have a long-term network of experienced partners to collaborate in larger
+projects. We have little administrative overhead and no expense for marketing and sales. The principals
+don't just visit our projects from time to time, they are actively involved.
 
 ## Values
 
