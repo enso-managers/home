@@ -40,7 +40,7 @@ product information from various sources in established data formats such as Req
   <li>Reference implementation: <a href="https://product-information-graph.org" target="_blank">CASCaRA Schema- and App-Server</a></li>
 </ul>
 
-Since 2014 we are leading a project improve collaboration in the end-to end product lifecycle: 
+Since 2014 we are leading a project to improve collaboration in the end-to end product lifecycle: 
 The <a href="https://specif.de" target="_blank">Specification Integration Facility (SpecIF)</a> is an 
 initiative to integrate partial models from different sources and notations to obtain an overaching property graph. 
 Many proven concepts of SpecIF are being adopted in CASCaRA.
